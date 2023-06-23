@@ -1,1 +1,1 @@
-# Mapping-Material-Property-Space-under-Uncertainty-Isotropic
+# Mapping Material Property Space of Cellular Metamaterials under Uncertainty (Isotropic)
